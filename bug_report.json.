@@ -1,1 +1,9 @@
-
+{
+    "self": "https://..................",
+    "id": "10001",
+    "description": "A problem or error.",
+    "iconUrl": "https://.............."
+    "name": "Bug",
+    "untranslatedName": "Bug",
+    "subtask": false,
+    "avatarId": 10303
